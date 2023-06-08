@@ -1,3 +1,5 @@
+# Demo App demonstrating the integration of Auth0
+
 # Auth0 React SDK Sample Application
 
 This sample demonstrates the integration of [Auth0 React SDK](https://github.com/auth0/auth0-react) into a React application created using [create-react-app](https://reactjs.org/docs/create-a-new-react-app.html). The sample is a companion to the [Auth0 React SDK Quickstart](https://auth0.com/docs/quickstart/spa/react).
@@ -80,12 +82,12 @@ If you're having issues running the sample applications, including issues such a
 
 Auth0 helps you to:
 
-* Add authentication with [multiple sources](https://auth0.com/docs/identityproviders), either social identity providers such as **Google, Facebook, Microsoft Account, LinkedIn, GitHub, Twitter, Box, Salesforce** (amongst others), or enterprise identity systems like **Windows Azure AD, Google Apps, Active Directory, ADFS, or any SAML Identity Provider**.
-* Add authentication through more traditional **[username/password databases](https://auth0.com/docs/connections/database/custom-db)**.
-* Add support for **[linking different user accounts](https://auth0.com/docs/users/user-account-linking)** with the same user.
-* Support for generating signed [JSON Web Tokens](https://auth0.com/docs/tokens/json-web-tokens) to call your APIs and **flow the user identity** securely.
-* Analytics of how, when, and where users are logging in.
-* Pull data from other sources and add it to the user profile through [JavaScript rules](https://auth0.com/docs/rules).
+- Add authentication with [multiple sources](https://auth0.com/docs/identityproviders), either social identity providers such as **Google, Facebook, Microsoft Account, LinkedIn, GitHub, Twitter, Box, Salesforce** (amongst others), or enterprise identity systems like **Windows Azure AD, Google Apps, Active Directory, ADFS, or any SAML Identity Provider**.
+- Add authentication through more traditional **[username/password databases](https://auth0.com/docs/connections/database/custom-db)**.
+- Add support for **[linking different user accounts](https://auth0.com/docs/users/user-account-linking)** with the same user.
+- Support for generating signed [JSON Web Tokens](https://auth0.com/docs/tokens/json-web-tokens) to call your APIs and **flow the user identity** securely.
+- Analytics of how, when, and where users are logging in.
+- Pull data from other sources and add it to the user profile through [JavaScript rules](https://auth0.com/docs/rules).
 
 ## Create a Free Auth0 Account
 
@@ -103,4 +105,3 @@ If you have found a bug or if you have a feature request, please report them at 
 ## License
 
 This project is licensed under the MIT license. See the [LICENSE](../LICENSE) file for more info.
-# auth0-demo-app
